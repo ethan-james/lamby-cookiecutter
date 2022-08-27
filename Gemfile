@@ -9,6 +9,7 @@ gem 'jbuilder'
 gem 'importmap-rails'
 gem 'lamby', require: false
 gem 'sprockets-rails'
+gem 'tailwindcss-rails'
 
 group :development do
   gem 'debug'
